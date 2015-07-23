@@ -1,4 +1,4 @@
-package com.klipfolio.junit;
+package com.saucelabs.junit;
 
 import com.saucelabs.common.SauceOnDemandAuthentication;
 import com.saucelabs.common.SauceOnDemandSessionIdProvider;
