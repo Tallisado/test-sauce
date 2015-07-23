@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.saucelabs</groupId>
-    <artifactId>sauce-ci-demo</artifactId>
+    <groupId>com.klipfolio</groupId>
+    <artifactId>sauce-ci</artifactId>
     <description>Simple Java project that demonstrates how to develop tests to integrate with the Sauce CI plugins
     </description>
     <version>1.0</version>
